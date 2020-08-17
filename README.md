@@ -23,6 +23,7 @@ Estudante de Sistemas da Informação na faculdade [Estácio de Sá](https://por
 * **Analisando os dados do Airbnb(Rio de Janeiro):** https://bit.ly/31RPK2K
 * **Panorama da COVID-19 no Brasil e no mundo:** https://bit.ly/2XZVBlp
 * **Detecção de doenças cardiovasculares com machine learning:** https://bit.ly/3kHR9S2
+* **Detecção de fraude em cartoẽs de credito:** https://bit.ly/2E3qv5N
 ---
 
 
